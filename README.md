@@ -143,18 +143,6 @@ A platform where users share life experiences and wisdom.
 
 ---
 
-## 📊 Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/u/sarwpati/">
-<img src="https://leetcard.jacoblin.cool/sarwpati?theme=dark&font=Baloo&ext=contest" />
-</a>
-
-</div>
-
----
-
 ## 📈 GitHub Analytics
 
 <div align="center">
