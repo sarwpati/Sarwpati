@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Mathematics+%26+Computing+Student;Full+Stack+Developer;Google+Cloud+Arcade+Champion;Building+Products+That+Matter" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Full+Stack+Developer;Google+Cloud+Arcade+Champion;Problem+Solver;Open+Source+Enthusiast;Building+Products+That+Matter" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Sarwpati%20Kumar&fontAlign=50&fontAlignY=40&color=gradient&animation=fadeIn"/>
 
