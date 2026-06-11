@@ -157,23 +157,9 @@ A platform where users share life experiences and wisdom.
 
 ## 🔥 GitHub Streak
 
-<div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sarwpati&theme=tokyonight&hide_border=true"/>
 
-</div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sarwpati&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
 
 ## 📊 Activity Graph
 
@@ -185,31 +171,14 @@ A platform where users share life experiences and wisdom.
 
 ---
 
-## 🐍 Contribution Snake
 
-<div align="center">
 
-![Snake animation](https://github.com/sarwpati/sarwpati/blob/output/github-contribution-grid-snake-dark.svg)
 
-</div>
 
 ---
-
-## ⚡ Competitive Programming
-
-<div align="center">
-
-<a href="https://leetcode.com/u/sarwpati/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/profile/s4sarw2ncy">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-green?style=for-the-badge&logo=geeksforgeeks"/>
-</a>
-
-</div>
-
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sarwpati&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 
 ## 💻 Quote Of The Day
 
